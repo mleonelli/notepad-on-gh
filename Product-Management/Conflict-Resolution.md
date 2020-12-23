@@ -38,3 +38,38 @@ Maslow's five basic human needs (bottom to top of the pyramid)
 3. Belonging
 4. Recognition
 5. Fulfillment
+
+---
+
+Emotions are body's primary esponses to satisfaction or non-satisfactions. Feelings are more abstract and last longer.
+
+1. Listen to your emotions and recognize them
+- Denial
+- Transformation
+- Rationalization
+- Displacing the emotion
+
+
+2. Manage your emotions
+- Trigger (avoid repeated triggers, may lead to over-sensitivity)
+- Build-up
+- Outburst, techniques to avoid outburst in public (breathing, etc...)
+- Unwind, it is important to do this phase in order to avoid accumulation
+
+Empathy -> listen to someone else's emotion
+It is difficult as there could be a mismatch between verbal and non-verbal communication (93%)
+
+Values as Freedom, Justice, Equality, Respect, Solidarity, Autonomy and Civilty always have
+- Rights, what I expect from others
+- Responsabilities, what I owe to others
+
+8 emotional archetypes - G. Berger
+- Relationship to action: active vs non-active
+- Proximity with emotions: close vs weak
+
+| Relationship to action | Proximity with emotions | Short-term reaction | Long-term reaction |
+| ----- | ----- | ----- | ----- |
+| Active | Close | Irritable | Passionate |
+| Active | Weak | Short-tempered | Phlegmatic |
+| Non-active | Close | Sentimental | Anxious |
+| Non-active | Weak | Amorphous | Apathetic |
