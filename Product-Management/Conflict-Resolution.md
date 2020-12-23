@@ -102,3 +102,24 @@ Learn to say no
 1. State the facts
 2. Talk about your needs and impacts
 3. Ask for another option
+
+---
+
+Analyse the conflict (observed consequences, causes of the conflict, value systems, risk factors)
+Decide to act based on: awareness of the impasse, hope for a resolution, material or symbolic form of grief
+
+Grief: denial, anger, bargaining, depression, acceptance.
+
+DESC discussion
+1. **D**escription: facts!
+2. **E**xplaining feelings
+3. **S**olutions
+- Time solution
+- Actor solution (who does what)
+- Rule solution
+- Hardware solution
+- Space solution
+- Actual or symbolic reparation
+4. **C**onclusion/Consequences
+
+Studies show that conflicts are more often resolved to avoid negative consequences than in the hope of achieving some gain.
