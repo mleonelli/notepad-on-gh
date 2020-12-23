@@ -123,3 +123,7 @@ DESC discussion
 4. **C**onclusion/Consequences
 
 Studies show that conflicts are more often resolved to avoid negative consequences than in the hope of achieving some gain.
+
+---
+SMARTE - Simple, Measurable, Ambitious and Realistic, Timed, Eco-Friendly
+
