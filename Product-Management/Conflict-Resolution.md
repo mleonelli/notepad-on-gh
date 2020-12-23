@@ -73,3 +73,32 @@ Values as Freedom, Justice, Equality, Respect, Solidarity, Autonomy and Civilty 
 | Active | Weak | Short-tempered | Phlegmatic |
 | Non-active | Close | Sentimental | Anxious |
 | Non-active | Weak | Amorphous | Apathetic |
+
+
+Assertiveness (A. Salter) - stating your position in a simple, direct and non-aggressive way.
+
+---
+
+Active listening
+1. Listen closely
+2. Rephrasing (summarize, clarify or refocus)
+3. Asking questions (remain factual)
+
+Filters in communication
+1. What I think.
+2. What I mean.
+3. What I say.
+4. What he/she hears.
+5. What he/she listens to.
+6. What he/she understands.
+7. What he/she accepts.
+8. What he/she retains.
+9. What he/she does.
+
+Use positive words and expressions
+https://openclassrooms.com/en/courses/2348776-resolve-conflicts-at-work/6174696-use-active-listening-and-positive-communication#/id/r-6174671
+
+Learn to say no
+1. State the facts
+2. Talk about your needs and impacts
+3. Ask for another option
