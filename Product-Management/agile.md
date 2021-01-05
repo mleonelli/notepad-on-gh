@@ -32,4 +32,28 @@ Key elements in Kanban (Kanban is a Japanese word that means billboard or signbo
 6. Explicit Policies
 
 http://personalkanban.com/pk/book/
+
 https://lifehacker.com/productivity-101-how-to-use-personal-kanban-to-visuali-1687948640
+
+
+Independent - When user stories are independent, they do not overlap each other in functionality. Thus you can begin work on a user story in any order you choose because there is no dependency on any other user story.
+
+Negotiable - Part of the beauty of the user story is that it reveals a need and why it is needed. As Bill Wake says, "A good story captures the essence, not the details." The details will be ironed out later by stakeholders and developers just before and during development.
+
+Valuable - The user story must be valuable as perceived by the customer. This should lead the development team to try to deliver a visible value for each user story (not a database layer which is not something the customer can see).
+
+Estimable - When discussing a user story, if the team says it cannot estimate the work required for the user story due to missing information, then you need more information. 
+
+Small - Good user stories are small and typically can be completed in a few days or weeks by a developer. When user stories are bigger, you may be able to split them. 
+
+Testable - If the team doesn't know how to test a user story, then they probably don't understand what is needed. Knowing exactly what to test is equivalent to knowing exactly what to build.
+
+Big 3 questions
+1. Immediately after reading the user story, is it obvious what the user story is about?
+2. Does each element of the user story add significant value and therefore avoid duplication or partial duplication of other elements?
+3. Is it totally 100% free of "the how" (the solution)?
+
+Perfection Game
+1. Rate the user story (a score between 1 and 10)
+2. Explain what they liked about the user story
+3. Explain what they would do to make it perfect
