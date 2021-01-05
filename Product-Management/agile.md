@@ -22,3 +22,14 @@ That is, while there is value in the items on the right, we value the items on t
 10. Keep things simple by developing just enough to get the job done for right now
 11. Self-organize teams to encourage great architectures, requirements, and designs 
 12. Reflect regularly on how to become more effective 
+
+Key elements in Kanban (Kanban is a Japanese word that means billboard or signboard)
+1. Limit Work In Progress
+2. Manage Flow
+3. Feedback Loops
+4. Improve/Evolve
+5. Visualize  
+6. Explicit Policies
+
+http://personalkanban.com/pk/book/
+https://lifehacker.com/productivity-101-how-to-use-personal-kanban-to-visuali-1687948640
