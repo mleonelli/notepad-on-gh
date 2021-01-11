@@ -57,3 +57,19 @@ Perfection Game
 1. Rate the user story (a score between 1 and 10)
 2. Explain what they liked about the user story
 3. Explain what they would do to make it perfect
+
+
+Books
+User Stories Applied (Mike Cohn) https://www.amazon.com/User-Stories-Applied-Development-Addison-Wesley-ebook/dp/B0054KOL74/
+
+Bridging the Communication Gap (Gojko Adzic) https://www.amazon.com/gp/product/B008YZ993W/
+
+50 quick ideas to improve your user stories (Gojko Adzic) https://leanpub.com/50quickideas
+
+ Sources of Power, Gary Klein https://www.amazon.com/Sources-Power-People-Make-Decisions/dp/0262611465
+ 
+ ---
+ 
+ https://openclassrooms.com/en/courses/4544611-write-agile-documentation-user-stories-acceptance-tests/6737541-get-some-practice-by-creating-your-own-wiki-to-store-user-stories-and-acceptance-tests-using-notion
+ 
+ 
